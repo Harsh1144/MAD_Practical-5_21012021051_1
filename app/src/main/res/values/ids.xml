@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="TextUrl" type="id" />
+    <item name="EditTextUrl" type="id" />
+    <item name="btnBrowse" type="id" />
+    <item name="textphoneNumber" type="id" />
+    <item name="EditTextNumber" type="id" />
+    <item name="btnCall" type="id" />
+    <item name="textCallLog" type="id" />
+    <item name="btnCallLog" type="id" />
+    <item name="textGallery" type="id" />
+    <item name="btnGallery" type="id" />
+    <item name="textCamera" type="id" />
+    <item name="btnCamera" type="id" />
+    <item name="textAlarm" type="id" />
+    <item name="btnAlarm" type="id" />
+</resources>
